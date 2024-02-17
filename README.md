@@ -19,5 +19,5 @@ The command:
 ./validate.js api/starknet_api_openrpc.json
 ```
 
-will run a validation on the `api/starknet_api_openrpc.json` schema file.
+Will run a validation on the `api/starknet_api_openrpc.json` schema file.
 If everything is ok, an appropriate message is displayed; otherwise errors are output to standard error.
